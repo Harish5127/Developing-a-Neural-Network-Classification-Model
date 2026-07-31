@@ -45,9 +45,9 @@ Include the neural network model diagram.
 
 ## PROGRAM
 
-### Name:
+### Name: Harish R
 
-### Register Number:
+### Register Number: 212224230085
 
 ```python
 import torch
@@ -169,29 +169,31 @@ print(f'Actual class for sample input: {le.inverse_transform([int(yst[12].item()
 
 ### Dataset Information
 
-<img width="788" height="338" alt="Screenshot 2026-07-31 135412" src="https://github.com/user-attachments/assets/96e7124a-f111-4fb5-8dd9-5d3fb0afdc2a" />
+<img width="893" height="315" alt="image" src="https://github.com/user-attachments/assets/feb719c2-e9a5-4e3d-bcfa-3cd6c3df641c" />
 
 ### OUTPUT
 
 
-<img width="328" height="275" alt="Screenshot 2026-07-31 141443" src="https://github.com/user-attachments/assets/c0f41c60-0b17-4ad9-b30a-e31b81a664fd" />
+<img width="281" height="201" alt="image" src="https://github.com/user-attachments/assets/1ea4bab8-5bcd-4a37-8463-068540d4a4ea" />
 
 
 ## Confusion Matrix
 
 
-<img width="328" height="275" alt="Screenshot 2026-07-31 141443" src="https://github.com/user-attachments/assets/b6bc638c-52ec-4a14-8b2b-de49ae84b581" />
+<img width="540" height="454" alt="image" src="https://github.com/user-attachments/assets/7db6fc66-3273-4e8c-9503-10ab7957d830" />
+
 
 ## Classification Report
 
 
-<img width="328" height="275" alt="Screenshot 2026-07-31 141443" src="https://github.com/user-attachments/assets/75121afc-ef2b-4d7b-8d90-df95d633f44f" />
+<img width="485" height="311" alt="image" src="https://github.com/user-attachments/assets/16341d0f-404b-40a2-983b-705f3e50c40b" />
 
 
 ### New Sample Data Prediction
 
 
-<img width="328" height="275" alt="Screenshot 2026-07-31 141443" src="https://github.com/user-attachments/assets/a4a9db79-c80a-4651-91b2-8dda335d452c" />
+<img width="650" height="267" alt="image" src="https://github.com/user-attachments/assets/21da8841-cb8a-4bab-b6cf-d8a709170a33" />
+
 
 
 ## RESULT
